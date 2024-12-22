@@ -1,3 +1,6 @@
+.container {
+    width: 100%; /* instead of 1200px */
+}
 body {
     font-family: 'Georgia', serif;
     background-color: #f7e9dc;
@@ -18,7 +21,7 @@ body {
 
 .letter {
     background-color: #fff;
-    width: 4a00px;
+    width: 400px;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
